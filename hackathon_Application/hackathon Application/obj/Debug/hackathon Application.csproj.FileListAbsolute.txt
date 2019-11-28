@@ -1,0 +1,13 @@
+c:\users\prudhvi\documents\visual studio 2010\Projects\hackathon Application\hackathon Application\bin\Debug\hackathon Application.exe
+c:\users\prudhvi\documents\visual studio 2010\Projects\hackathon Application\hackathon Application\bin\Debug\hackathon Application.pdb
+c:\users\prudhvi\documents\visual studio 2010\Projects\hackathon Application\hackathon Application\obj\Debug\hackathon_Application.Cooldrinks.resources
+c:\users\prudhvi\documents\visual studio 2010\Projects\hackathon Application\hackathon Application\obj\Debug\hackathon_Application.Fruits1.resources
+c:\users\prudhvi\documents\visual studio 2010\Projects\hackathon Application\hackathon Application\obj\Debug\hackathon_Application.LOGIN_PAGE.resources
+c:\users\prudhvi\documents\visual studio 2010\Projects\hackathon Application\hackathon Application\obj\Debug\hackathon_Application.LOGIN.resources
+c:\users\prudhvi\documents\visual studio 2010\Projects\hackathon Application\hackathon Application\obj\Debug\hackathon_Application.Menuitems.resources
+c:\users\prudhvi\documents\visual studio 2010\Projects\hackathon Application\hackathon Application\obj\Debug\hackathon_Application.Properties.Resources.resources
+c:\users\prudhvi\documents\visual studio 2010\Projects\hackathon Application\hackathon Application\obj\Debug\hackathon_Application.REGI.resources
+c:\users\prudhvi\documents\visual studio 2010\Projects\hackathon Application\hackathon Application\obj\Debug\hackathon_Application.regisration.resources
+c:\users\prudhvi\documents\visual studio 2010\Projects\hackathon Application\hackathon Application\obj\Debug\hackathon Application.csproj.GenerateResource.Cache
+c:\users\prudhvi\documents\visual studio 2010\Projects\hackathon Application\hackathon Application\obj\Debug\hackathon Application.exe
+c:\users\prudhvi\documents\visual studio 2010\Projects\hackathon Application\hackathon Application\obj\Debug\hackathon Application.pdb

@@ -1,0 +1,21 @@
+c:\users\prudhvi\documents\visual studio 2010\Projects\hackathon Application\hackathon Application\obj\x86\Debug\hackathon_Application.LOGIN_PAGE.resources
+c:\users\prudhvi\documents\visual studio 2010\Projects\hackathon Application\hackathon Application\obj\x86\Debug\hackathon_Application.Properties.Resources.resources
+c:\users\prudhvi\documents\visual studio 2010\Projects\hackathon Application\hackathon Application\obj\x86\Debug\hackathon_Application.REGI.resources
+c:\users\prudhvi\documents\visual studio 2010\Projects\hackathon Application\hackathon Application\obj\x86\Debug\hackathon_Application.regisration.resources
+c:\users\prudhvi\documents\visual studio 2010\Projects\hackathon Application\hackathon Application\obj\x86\Debug\hackathon Application.csproj.GenerateResource.Cache
+c:\users\prudhvi\documents\visual studio 2010\Projects\hackathon Application\hackathon Application\bin\Debug\hackathon Application.exe
+c:\users\prudhvi\documents\visual studio 2010\Projects\hackathon Application\hackathon Application\bin\Debug\hackathon Application.pdb
+c:\users\prudhvi\documents\visual studio 2010\Projects\hackathon Application\hackathon Application\obj\x86\Debug\hackathon Application.exe
+c:\users\prudhvi\documents\visual studio 2010\Projects\hackathon Application\hackathon Application\obj\x86\Debug\hackathon Application.pdb
+c:\users\prudhvi\documents\visual studio 2010\Projects\hackathon Application\hackathon Application\obj\x86\Debug\hackathon_Application.Menuitems.resources
+c:\users\prudhvi\documents\visual studio 2010\Projects\hackathon Application\hackathon Application\obj\x86\Debug\hackathon_Application.Cooldrinks.resources
+c:\users\prudhvi\documents\visual studio 2010\Projects\hackathon Application\hackathon Application\obj\x86\Debug\hackathon_Application.Fruits1.resources
+c:\users\prudhvi\documents\visual studio 2010\Projects\hackathon Application\hackathon Application\obj\x86\Debug\hackathon_Application.JunkFood.resources
+c:\users\prudhvi\documents\visual studio 2010\Projects\hackathon Application\hackathon Application\obj\x86\Debug\hackathon_Application.nonveg.resources
+c:\users\prudhvi\documents\visual studio 2010\Projects\hackathon Application\hackathon Application\obj\x86\Debug\hackathon_Application.Cart.resources
+c:\users\prudhvi\documents\visual studio 2010\Projects\hackathon Application\hackathon Application\obj\x86\Debug\hackathon_Application.Passwordrecovery.resources
+c:\users\prudhvi\documents\visual studio 2010\Projects\hackathon Application\hackathon Application\obj\x86\Debug\hackathon_Application.Vegetable.resources
+c:\users\prudhvi\documents\visual studio 2010\Projects\hackathon Application\hackathon Application\obj\x86\Debug\hackathon_Application.BuyingForm.resources
+c:\users\prudhvi\documents\visual studio 2010\Projects\hackathon Application\hackathon Application\obj\x86\Debug\hackathon_Application.FinalStatement.resources
+C:\Users\Prudhvi\Documents\Visual Studio 2010\Projects\hackathon Application\hackathon Application\obj\x86\Debug\hackathon Application.csprojResolveAssemblyReference.cache
+C:\Users\Prudhvi\Documents\Visual Studio 2010\Projects\hackathon Application\hackathon Application\obj\x86\Debug\hackathon Application.csproj.CoreCompileInputs.cache
